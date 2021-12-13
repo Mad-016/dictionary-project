@@ -10,7 +10,7 @@ export default function App() {
         </header>
 
         <main>
-          <Dictionary defaultKeyword="tree" />
+          <Dictionary defaultKeyword="Fountain" />
         </main>
         <footer className="App-footer">
           <small>
