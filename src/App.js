@@ -15,7 +15,14 @@ export default function App() {
         <footer className="App-footer">
           <small>
             Coded by Madeline Hardy. See my{" "}
-            <a href="https://github.com/Mad-016/dictionary-project">GitHub</a>.
+            <a
+              href="https://github.com/Mad-016/dictionary-project"
+              rel="noreferrer"
+              target="_blank"
+            >
+              GitHub
+            </a>
+            .
           </small>
         </footer>
       </div>{" "}
